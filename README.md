@@ -15,3 +15,9 @@ Using Heroku to deploy this portfolio app, in order to use Heroku CLI ,
 }
 
 #3. Must test locally before Git push heroku master .
+
+#4. Run 'npm run build' command on PowerShell.
+
+#5. Run 'heroku login' command on PowerShell.
+
+#6. Using Heroku site https://dashboard.heroku.com/apps to deploy a GitHub branch.
