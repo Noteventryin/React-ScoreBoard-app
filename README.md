@@ -1,6 +1,6 @@
 # React-Scoreboard-app
  
-Check out this portfolio page now! https://react-scoreboardapp.herokuapp.com/
+Check out this scoreboard app now! https://react-scoreboardapp.herokuapp.com/
 
 Using Heroku to deploy this portfolio app, in order to use Heroku CLI ,
 
